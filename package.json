@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ssmr9dt/casper-visa-card/issues"
   },
-  "homepage": "https://github.com/ssmr9dt/casper-visa-card#readme"
+  "homepage": "https://github.com/ssmr9dt/casper-visa-card#readme",
+  "dependencies": {
+    "casper": "^0.1.1"
+  }
 }
